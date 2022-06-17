@@ -19,7 +19,10 @@ pip install BeautifulSoup
 pkg install git
 
 git clone https://github.com/MRRAKIB-404/mk.py
+
+
 cd mk.py
+
 
 python newfile.py
 
